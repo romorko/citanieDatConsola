@@ -1,4 +1,4 @@
-package map.bod;
+package map.vstup.konzola;
 
 import java.util.InputMismatchException;
 import java.util.Scanner;
